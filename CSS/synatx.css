@@ -1,0 +1,32 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.background
+{
+	width: 100pxvw;
+	height: 100vh;
+	position: relative;
+	background-image:url(../image/backgraund.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+
+}
+.overlay_txt{
+	width: 100%;
+	height: 100%;
+	font-size: 26px;
+	color: black;
+	display:flex ;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+p{
+	background-color: aquamarine;
+}

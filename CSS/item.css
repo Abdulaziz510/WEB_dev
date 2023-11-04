@@ -1,0 +1,82 @@
+#headerRight {
+    display: inline-block;
+    position: absolute;
+    right: 10%;
+}
+
+#headerCenter {
+    display: inline-block;
+    position: absolute;
+    right: 44%;
+    top: 6%;
+}
+
+.about {
+    display: inline-block;
+    position: absolute;
+    left: 10%;
+
+}
+
+.about li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+.about ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.items{
+
+    width: 800px;
+    height: 600px;
+}
+
+.items img a{
+
+    display: inline-block
+}
+.items ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+
+.items {
+    position: absolute;
+    bottom: 0.05%;
+    right: 20%;
+
+}
+.up img{
+    position: relative;
+    margin-right: 100px;
+
+}
+
+.down{
+    
+    position: relative;
+    margin-right: 100px;
+ 
+}
+p{
+    margin: 10px;
+  
+   
+}
+
+body{
+	width: 100pxvw;
+	height: 100vh;
+	position: relative;
+	background-image:url(../image/backgounghome.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
